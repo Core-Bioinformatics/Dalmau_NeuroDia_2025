@@ -1,4 +1,5 @@
 # Metabolic challenges regulates hypothalamic SUCNR1 expression
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22976793.svg)](https://doi.org/10.5281/zenodo.22976793)
 
 GEO accession number: GSE299826 
 
